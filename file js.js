@@ -131,7 +131,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "https://blogcyberpulsa.blogspot.com/2018/01/4-langkah-kunci-sukses-menjadi-agen-dan.html?url=" + encryptedUrl;
+            a_to_ve[i].href = "http://pecanducerita21.blogspot.com/2018/03/cerita-7.html?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
